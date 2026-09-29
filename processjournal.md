@@ -22,3 +22,8 @@ However, this did not stop us from brainstorming possible options for what to do
 Below is our joint notes of our meeting together in week 2:
 
 ![week2brainstorm](images/week2brainstorm.jpg)
+
+## Week 3 Progress 
+This week we have met up with VK Preston to communicate about their vision for the project.
+
+It has been a very enlightening process as we manage to figure out a lot of questions that we had for them during this meeting. Thankfully, VK has a lot of support around concordia, which means we also have some of this support. VK has agreed to send us some of the assets thanks to Oswaldo who has the bulk of it saved. VK has also shown us multiple of the photographs so we may have more of  a vision for the project. 
