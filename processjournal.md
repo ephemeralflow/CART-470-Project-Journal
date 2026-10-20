@@ -27,3 +27,11 @@ Below is our joint notes of our meeting together in week 2:
 This week we have met up with VK Preston to communicate about their vision for the project.
 
 It has been a very enlightening process as we manage to figure out a lot of questions that we had for them during this meeting. Thankfully, VK has a lot of support around concordia, which means we also have some of this support. VK has agreed to send us some of the assets thanks to Oswaldo who has the bulk of it saved. VK has also shown us multiple of the photographs so we may have more of  a vision for the project. 
+
+## Week 4 Progress
+Could not go to class because I was extremely sick the whole week. But did help the team into making the website's prototype with design choices in hopes to make a proper prototype for the next meeting we will have with VK.
+
+## Week 5 Progress
+Presented to VK the new and improved prototype where we remade our previous prototype using the parts of the previous prototype that VK did enjoy and parts that they liked.
+
+However, once presented, VK did not seem too pleased with the new prototype as they did not enjoy previous design choices that they did like before. They did let us meet another one of their team who seemed very against our current prototype so we have redesigned it in hopes that VK is now content with the newest prototype.
