@@ -35,3 +35,8 @@ Could not go to class because I was extremely sick the whole week. But did help 
 Presented to VK the new and improved prototype where we remade our previous prototype using the parts of the previous prototype that VK did enjoy and parts that they liked.
 
 However, once presented, VK did not seem too pleased with the new prototype as they did not enjoy previous design choices that they did like before. They did let us meet another one of their team who seemed very against our current prototype so we have redesigned it in hopes that VK is now content with the newest prototype.
+
+## Week 6 Progress
+Presented to VK the new NEW and improved prototype with some alternate options. They seemed much more pleased with this new prototype and allowed us to continue forward into making the website and starting with the code.
+
+We also had talked with another one of the team who seemed to enjoy it as well. We had a couple of suggestions here and there for the website which we will try to implement as soon as the rest of the prototype has been coded into a usable website.
