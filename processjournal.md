@@ -40,3 +40,8 @@ However, once presented, VK did not seem too pleased with the new prototype as t
 Presented to VK the new NEW and improved prototype with some alternate options. They seemed much more pleased with this new prototype and allowed us to continue forward into making the website and starting with the code.
 
 We also had talked with another one of the team who seemed to enjoy it as well. We had a couple of suggestions here and there for the website which we will try to implement as soon as the rest of the prototype has been coded into a usable website.
+
+## Week 7 Progress
+As a team, since we had the midterm presentation to make, we decided to work together into making the presentation while splitting off our workload. Currently, we have finished the presentation while working together as a team. Wanting to progress on both the website and the presentation, we split the team in half to focus on both things (the presentation and starting the website).
+
+The presentation script and powerpoint were finished ahead of time and we split off the work accordingly for the presentation day.
