@@ -45,3 +45,12 @@ We also had talked with another one of the team who seemed to enjoy it as well. 
 As a team, since we had the midterm presentation to make, we decided to work together into making the presentation while splitting off our workload. Currently, we have finished the presentation while working together as a team. Wanting to progress on both the website and the presentation, we split the team in half to focus on both things (the presentation and starting the website).
 
 The presentation script and powerpoint were finished ahead of time and we split off the work accordingly for the presentation day.
+
+## Week 8
+This week we decided to split off our workload once again.
+
+As a team, in theory, we will all work on the website together, however I'll admit we are a tad bit very disorganized and there isn't exactly a proper order of anything even if we try.
+
+Nonetheless, my job right now is to learn the React library for the website as it was decided to do our website using it so right now I am supposed to learn it while the others split their workload in different ways. The decision for this was so I could learn the library first before my other two teammates who will have to learn it as well so I am the midpoint between the team on learning about React as two of our members already know it.
+
+I feel that our workload could be split up differently and our organization could be different as well but the team desires this sort of organization so I will follow what they request of me and hopefully we can figure out a way to be more organized soon enough. Hopefully I can become more useful as I feel they never know what to do with me even when I offer so I will try to learn React fast enough for this.
