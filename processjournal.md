@@ -54,3 +54,14 @@ As a team, in theory, we will all work on the website together, however I'll adm
 Nonetheless, my job right now is to learn the React library for the website as it was decided to do our website using it so right now I am supposed to learn it while the others split their workload in different ways. The decision for this was so I could learn the library first before my other two teammates who will have to learn it as well so I am the midpoint between the team on learning about React as two of our members already know it.
 
 I feel that our workload could be split up differently and our organization could be different as well but the team desires this sort of organization so I will follow what they request of me and hopefully we can figure out a way to be more organized soon enough. Hopefully I can become more useful as I feel they never know what to do with me even when I offer so I will try to learn React fast enough for this.
+
+## Week 9
+This week is like the other weeks, we are splitting off the workload.
+
+Truth be told, I think our team is a little bit disfunctional. I originally had offered to do whatever they left off but then the team didn't really leave anything to work and no one really wanted to give up their work so I couldn't really do anything.
+
+Instead I have decided to offer to simply attempt to learn more of the website library.
+
+Next week, I am hoping to suggest on taking the role of QA testing as I feel that we are severely lacking in that department and I feel it is a role that I can take since I feel underqualified at this point to work more on the website. I trust the rest of the team to figure it out and hopefully I can convince them to let me do more work over being on standby for presentations as that wasn't my original role from when we decided to give roles at the start of the semester.
+
+Nonetheless, I am slowly learning the REACT library in my freetime during the week and I hope to become better.
