@@ -58,10 +58,15 @@ I feel that our workload could be split up differently and our organization coul
 ## Week 9
 This week is like the other weeks, we are splitting off the workload.
 
-Truth be told, I think our team is a little bit disfunctional. I originally had offered to do whatever they left off but then the team didn't really leave anything to work and no one really wanted to give up their work so I couldn't really do anything.
+Truth be told, I think our team is a little bit dysfunctional. I originally had offered to do whatever they left off but then the team didn't really leave anything to work and no one really wanted to give up their work so I couldn't really do anything.
 
 Instead I have decided to offer to simply attempt to learn more of the website library.
 
 Next week, I am hoping to suggest on taking the role of QA testing as I feel that we are severely lacking in that department and I feel it is a role that I can take since I feel underqualified at this point to work more on the website. I trust the rest of the team to figure it out and hopefully I can convince them to let me do more work over being on standby for presentations as that wasn't my original role from when we decided to give roles at the start of the semester.
 
-Nonetheless, I am slowly learning the REACT library in my freetime during the week and I hope to become better.
+Nonetheless, I am slowly learning the REACT library in my free time during the week and I hope to become better.
+
+## Week 10
+This week we have split off the work like we've been doing all the previous weeks.
+
+I now have a main role which is simply to do QA testing, anything that we will send to our client will pass through me first to make sure that it is at an optimum state and functional for our client. We have also communicated with our client on what were their wishes and have concluded a list of possible things to get for the next week. We have also been provided soon after some of the audio files that will be used on the website by the composer.
